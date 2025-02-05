@@ -109,7 +109,7 @@ main {
     flex-wrap: wrap;
   }
   .search-bar {
-    min-width: 400px;;
+    min-width: 300px;;
   }
 }
 
@@ -120,7 +120,7 @@ main {
     flex-wrap: wrap;
   }  
   .search-bar {
-    min-width: 600px;;
+    min-width: 400px;;
   }
   
 }
