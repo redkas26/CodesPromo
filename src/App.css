@@ -29,16 +29,10 @@ main {
   animation: fadeIn 0.5s ease forwards;
 }
 
-.promo-code:nth-child(1) { animation-delay: 0.1s; }
-.promo-code:nth-child(2) { animation-delay: 0.2s; }
-.promo-code:nth-child(3) { animation-delay: 0.3s; }
-.promo-code:nth-child(4) { animation-delay: 0.4s; }
-.promo-code:nth-child(5) { animation-delay: 0.5s; }
-
 .promo-code:hover {
   transform: rotate(2deg) scale(1.03);
   background-color: #0080ff68;
-  /* transform: scale(1.05); Zoom léger */
+  transform: scale(1.05); 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre plus prononcée */
 }
 
