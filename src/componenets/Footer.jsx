@@ -3,7 +3,7 @@ import '../styles/Footer.css'
 const Footer = () => {
   return (
     <footer className="footer">
-      <p>&copy; 2023 Mon Site de Codes Promo. Tous droits réservés.</p>
+      <p>&copy; 2025 Site de Codes Promo. Tous droits réservés.</p>
       <nav>
         <ul>
           <li><a href="/mentions-legales">Mentions légales</a></li>
